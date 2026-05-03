@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700;800;900&family=JetBrains+Mono:wght@500;600&display=swap" rel="stylesheet">
+<style>
+* { margin: 0; padding: 0; box-sizing: border-box; }
+html, body { width: 1280px; height: 720px; overflow: hidden; background: #0B0B0D; font-family: 'Inter', sans-serif; color: #F4F4F8; -webkit-font-smoothing: antialiased; }
+.canvas { width: 1280px; height: 720px; position: relative; display: flex; flex-direction: column; justify-content: space-between; padding: 52px 80px 48px; overflow: hidden; }
+.glow { position: absolute; top: 50%; left: -100px; transform: translateY(-50%); width: 560px; height: 560px; border-radius: 50%; background: radial-gradient(circle, rgba(232,0,46,0.08) 0%, transparent 65%); pointer-events: none; }
+.glow2 { position: absolute; bottom: -60px; right: 180px; width: 340px; height: 280px; border-radius: 50%; background: radial-gradient(ellipse, rgba(232,0,46,0.05) 0%, transparent 70%); pointer-events: none; }
+.top-line { position: absolute; top: 0; left: 0; right: 0; height: 3px; background: linear-gradient(90deg, #E8002E 0%, rgba(232,0,46,0.2) 55%, transparent 100%); }
+.top { display: flex; justify-content: space-between; align-items: center; position: relative; z-index: 1; }
+.brand { font-family: 'JetBrains Mono', monospace; font-size: 11px; font-weight: 600; letter-spacing: 5px; text-transform: uppercase; color: #505062; }
+.tag { font-family: 'JetBrains Mono', monospace; font-size: 10px; font-weight: 600; letter-spacing: 3px; text-transform: uppercase; color: #E8002E; border: 1px solid rgba(232,0,46,0.3); padding: 6px 14px; background: rgba(232,0,46,0.04); }
+.center { flex: 1; display: flex; align-items: center; gap: 80px; position: relative; z-index: 1; padding: 16px 0; }
+.left { flex-shrink: 0; }
+.headline { font-size: 88px; font-weight: 900; line-height: 1.0; letter-spacing: -3.5px; }
+.headline .red { color: #E8002E; }
+.divider { width: 2px; height: 140px; background: linear-gradient(180deg, transparent, #1F1F28 30%, #1F1F28 70%, transparent); flex-shrink: 0; }
+.right { flex: 1; }
+.sub { font-size: 20px; font-weight: 400; color: #9898B0; line-height: 1.65; }
+.sub b { color: #F4F4F8; font-weight: 600; }
+.bottom { display: flex; justify-content: space-between; align-items: center; position: relative; z-index: 1; border-top: 1px solid #1F1F28; padding-top: 22px; }
+.handle { font-family: 'JetBrains Mono', monospace; font-size: 13px; font-weight: 600; color: #505062; letter-spacing: 1px; }
+.site { font-family: 'JetBrains Mono', monospace; font-size: 11px; color: #2A2A36; letter-spacing: 2px; }
+</style>
+</head>
+<body>
+<div class="canvas">
+  <div class="top-line"></div>
+  <div class="glow"></div>
+  <div class="glow2"></div>
+  <div class="top">
+    <div class="brand">VIPCare.io</div>
+    <div class="tag">Market Signal</div>
+  </div>
+  <div class="center">
+    <div class="left">
+      <div class="headline">VIP-рынок взлетел.<br><span class="red">Доля упала.</span></div>
+    </div>
+    <div class="divider"></div>
+    <div class="right">
+      <div class="sub">Макао: <b>VIP-баккара +35,4%.</b><br>MGM China - доля VIP <b>с 15,4% до 10,2%.</b><br>Hold rate MGM Macau: <b>0,6% (год назад 4,2%).</b><br>Mass-сегмент: исторический рекорд.</div>
+    </div>
+  </div>
+  <div class="bottom">
+    <div class="handle">@vipcare_io</div>
+    <div class="site">vipcare.io</div>
+  </div>
+</div>
+</body>
+</html>
