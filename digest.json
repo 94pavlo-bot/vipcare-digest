@@ -1,7 +1,9 @@
 {
-  "timestamp": "2026-05-04T08:20:32Z",
+  "timestamp": "2026-05-04T10:45:00Z",
   "image_ready": true,
   "used_urls": [
+    "https://www.prnewswire.com/news-releases/bcgame-announces-bc-engine-burn-mechanism-is-now-live-302757088.html",
+    "https://www.yogonet.com/international/news/2026/05/01/118906-pointsbet-canada-enhances-ontario-casino-offerings-through-bede-gaming-partnership",
     "https://igamingbusiness.com/legal-compliance/regulation/new-brazil-bill-ban-loyalty-programmes-cashback/",
     "https://asgam.com/2026/05/01/macau-ggr-up-5-5-year-on-year-in-april-to-mop19-9-billion/",
     "https://casinobeats.com/2026/05/01/evoke-fy25-results-small-growth-overshadowed-by-increased-debts-ahead-of-sale/",
@@ -13,10 +15,10 @@
   ],
   "posts": [
     {
-      "text": "⚠️ <b>Бразилия, законопроект 1018/2026: cashback, VIP-программы и геймификация - под запретом. Крупнейший новый рынок ставок оказался в зоне риска.</b>\n\nСенатор Eduardo Girão внёс поправки к закону 14.790/2023. Список конкретный: запрет cashback (фиксированного и переменного), VIP-программ, программ лояльности, завязанных на частоту или объём ставок, и любой геймификации - миссии, лидерборды, уровни прогрессии.\n\nПо данным iGaming Business, при принятии закона операторам даётся 90 дней на адаптацию. Бразилия легализовала ставки в январе 2025. Операторы строили VIP-инфраструктуру под этот рынок больше года.\n\nСтатус - сенат. Но Массачусетс, Великобритания и Австралия уже шли этим путём. Бразилия - не исключение. Она шаблон.\n\n<a href=\"https://igamingbusiness.com/legal-compliance/regulation/new-brazil-bill-ban-loyalty-programmes-cashback/\">iGaming Business</a>, 2026\n\n#iGaming"
+      "text": "📊 <b>BC.Game запустила burn-механизм VIP-токена - и $BC вырос на 305% от ценового дна после старта Engine.</b>\n\n29 апреля активировался финальный элемент BC Engine: 1% $BC сгорает при выводе из стейкинга раньше 7 дней. Плюс - еженедельный байбэк из доходов платформы.\n\nСтатические бонусные уровни заменены на crypto-staking-модель. Вейджер генерирует $BC, токены стейкятся и каждый час начисляют BCD (1:1 к USD). Доступ к Engine - с первого вейджера, без порогов. Rakeback открывается с VIP Level 14.\n\nПо данным PR Newswire, $BC достиг ATH $0.01181 - рост +305% от ценового дна на фоне Engine-запуска.\n\nRetention через дефляционный токен - не бонусная программа. Финансовый инструмент внутри казино.\n\nГде граница между VIP-лояльностью и крипто-инвестицией - и кто несёт ответственность, когда токен падает?\n\n<a href=\"https://www.prnewswire.com/news-releases/bcgame-announces-bc-engine-burn-mechanism-is-now-live-302757088.html\">PR Newswire</a>, 29 апреля 2026\n\n#iGaming"
     },
     {
-      "text": "⚠️ <b>Макао апрель 2026: GGR +5.5% при прогнозе Seaport 11%+. Вся недостача - один показатель: VIP hold.</b>\n\nDICJ: апрельский GGR - MOP19.89 млрд ($2.47 млрд), рост +5.5% год к году. Bloomberg ждал +6.5%. Аналитики Seaport Research закладывали более 11%.\n\nVitaly Umansky из Seaport прямо назвал причину: слабый VIP hold. По его расчётам, при нормальном удержании рост составил бы 10-11%. Часть апрельских VIP-визитов перенесена в май.\n\nПрогноз на 2026 год - +7% - остаётся в силе. Но он целиком зависит от нормализации hold во втором полугодии.\n\nРынок $2.47 млрд в месяц управляется одной переменной, которую никто из операторов не контролирует.\n\n<a href=\"https://asgam.com/2026/05/01/macau-ggr-up-5-5-year-on-year-in-april-to-mop19-9-billion/\">ASGAM</a>, 1 мая 2026"
+      "text": "📊 <b>PointsBet Canada открыл Ontario с 12,000+ играми и retention-стеком от Bede Gaming - в первый день.</b>\n\nBede Gaming победила в конкурсном отборе. По данным Yogonet, договор многолетний: 130+ провайдеров - Games Global, Pragmatic Play, Play'n GO, Light & Wonder. Открытый API с первого дня.\n\nВ пакете - не только библиотека. Инструменты сегментации игроков, campaign workflows и управление промо встроены с запуска. Следующая цель: Alberta. Дата открытия рынка - 13 июля 2026.\n\n12,000 игр запускают за один день. VIP-экспертизу - нет.\n\nКогда Alberta откроется 13 июля - у скольких операторов будет технология без стратегии?\n\n<a href=\"https://www.yogonet.com/international/news/2026/05/01/118906-pointsbet-canada-enhances-ontario-casino-offerings-through-bede-gaming-partnership\">Yogonet</a>, 1 мая 2026"
     }
   ]
 }
