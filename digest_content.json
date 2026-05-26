@@ -1,29 +1,8 @@
 {
-  "timestamp": "2026-05-24T14:13:00Z",
+  "timestamp": "2026-05-26T08:20:00Z",
   "used_urls": [
-    "https://bettorsinsider.com/news/2026/05/19/igaming-ontario-launches-betguard-a-first-of-its-kind-centralized-self-exclusion-tool-for-all-82-licensed-gambling-sites/",
-    "https://www.yogonet.com/international/news/2026/05/15/120630-ontario-launches-betguard-selfexclusion-platform-for-online-gambling",
-    "https://www.yogonet.com/international/news/2026/05/18/120950-pointsbet-slips-to-192-million-loss-as-australian-revenue-weakens-after-mixi-takeover",
-    "https://next.io/news/results/fy26-pointsbet-revenue-slips-after-mixi-takeover/",
-    "https://www.yogonet.com/international/news/2026/05/20/120956-softswiss-explores-the-potential-of-prediction-markets-in-new-report-for-igaming-operators",
-    "https://www.cryptopolitan.com/january-prediction-market-volume-12-billion/",
-    "https://www.ggrasia.com/genting-singapore-downgraded-by-nomura-as-rws-vip-rolling-share-at-all-time-low",
-    "https://agbrief.com/news/philippines/17/05/2026/bloomberry-posts-2m-1q26-loss-as-solaire-vip-and-premium-mass-slump-deepens/",
-    "https://focusgn.com/asia-pacific/bloomberry-resorts-corporation-reports-1q-net-loss-amid-softer-vip-gaming-demand",
-    "https://www.ggrasia.com/bloomberry-posts-1q-loss-as-ggr-declines-on-vip-premium-mass-softness",
-    "https://igamingbusiness.com/legal-compliance/regulation/new-brazil-bill-ban-loyalty-programmes-cashback/",
-    "https://sigma.world/news/brazil-betting-ban-debate-stricter-rules-more-likely/",
-    "https://agbrief.com/news/world/22/05/2026/ibankroll-partners-with-monkeytilt-to-power-increased-igaming-vip-limits/",
-    "https://www.freetips.com/news/monkeytilt-ibankroll-deal-20260507-0047/",
-    "https://igamingbusiness.com/gaming/gaming-regulation/irish-approves-licensing-regulatory-powers-grai/",
-    "https://asgam.com/2026/05/21/newport-world-resorts-reports-16-5-fall-in-1q26-gaming-revenues-on-vip-weakness/",
-    "https://www.ggrasia.com/travellers-intl-1q-profit-down-70pct-from-a-year-ago-as-revenue-shrinks",
-    "https://sbcnews.co.uk/featurednews/2026/05/21/uk-gambling-commission-affordability/",
-    "https://europeangaming.eu/portal/latest-news/2026/05/21/204953/gambling-commission-finance-risk-assessments-are-not-affordability-checks/",
-    "https://paymentexpert.com/2026/05/22/payment-retention-opportunity-igaming/",
     "https://www.casinoguardian.co.uk/2026/05/20/uk-online-gaming-faces-an-uncertain-future-as-rgd-surge-takes-effect/",
     "https://h2gc.com/news/general/h2-analysis-of-uk-online-tax-increase-leads-to-onshore-channelisation-falling-to-84",
-    "https://www.yogonet.com/international/news/2025/07/21/112088-vip-gambler-numbers-collapse-by-95-after-uk-crackdown-new-gambling-commission-report-shows",
     "https://europeangaming.eu/portal/latest-news/2026/05/22/205049/world-cup-2026-why-the-biggest-igaming-opportunity-sits-beyond-the-sportsbook/",
     "https://www.prnewswire.com/news-releases/bcgame-launches-football-cup-2026-campaign-with-over-2m-in-rewards-302778358.html",
     "https://insiderph.com/digiplus-builds-on-loyal-core-players-as-it-expands-own-platform-after-e-wallet-delinking",
@@ -40,21 +19,42 @@
     "https://casinobeats.com/2026/05/13/macao-casino-operator-galaxy-net-revenues-up-11-earnings-sjm-down-21/",
     "https://sbcamericas.com/2026/03/31/new-york-proposes-new-betting-rules/",
     "https://www.legalsportsreport.com/259069/new-york-sports-betting-regulators-propose-biometric-confirmation-for-all-bets/",
-    "https://www.investing.com/news/company-news/wynn-resorts-q1-2026-slides-revenue-beats-as-vegas-shines-margins-dip-93CH-4670874"
+    "https://www.investing.com/news/company-news/wynn-resorts-q1-2026-slides-revenue-beats-as-vegas-shines-margins-dip-93CH-4670874",
+    "https://bettorsinsider.com/casino/2026/05/21/igaming-is-outpacing-sports-betting-in-north-america-as-prediction-market-pressure-squeezes-sportsbooks/",
+    "https://next.io/news/investment/macquarie-us-igaming-stocks-surging-ahead-betting-rivals/",
+    "https://bettorsinsider.com/casino/2026/04/30/rush-street-interactive-had-its-best-quarter-in-company-history-and-its-casino-first-bet-is-paying-off/",
+    "https://igamingexpert.com/features/finland-igaming-market-licence-applications",
+    "https://www.gambling911.com/gambling/veikkaus-monopoly-ending-who-wins-finnish-online-casino-market-11-05-2026.html",
+    "https://www.yogonet.com/international/news/2026/04/27/118788-finlands-gambling-ad-market-set-for-rapid-growth-under-strict-new-rules",
+    "https://softwaremind.com/blog/with-the-uks-remote-gaming-duty-set-to-double-on-1-april-what-do-operators-need-to-know/",
+    "https://geekygambler.com/blog/2026/05/18/remote-gaming-duty-uk-casinos-your-clear-guide/",
+    "https://eegaming.org/latest-news/2026/05/18/139225/seon-warns-world-cup-betting-surge-will-expose-retention-and-loyalty-fraud/",
+    "https://ir.paysafe.com/news-events/press-releases/detail/254/paysafe-research-first-time-and-casual-betting-to-surge-for-2026-world-cup",
+    "https://agbrief.com/intel/deep-dive/05/01/2026/macau-casinos-earn-similar-revenue-with-far-lower-junket-costs-study/",
+    "https://www.ggrasia.com/jp-morgan-cuts-macau-market-2026-adjusted-ebitda-forecast-citing-play-mix-and-operating-costs",
+    "https://asgam.com/2026/04/30/macaus-premium-squeeze/",
+    "https://igamingbusiness.com/content-os/south-africa-casino-igaming-sports-betting-player-retention-engagement-acquisition/",
+    "https://sweepscasinos.us/news/stake-us-exits-illinois-amid-sweepstakes-crackdown/",
+    "https://bettorsinsider.com/casino/2026/05/12/illinois-gaming-board-just-sent-65-cease-and-desist-letters-to-sweepstakes-casinos-chumba-fliff-luckyland-and-more-are-on-the-list/",
+    "https://www.yogonet.com/international/news/2025/10/15/115828-italy-to-slash-online-gambling-licenses-from-407-to-52",
+    "https://agbrief.com/news/world/22/05/2026/ibankroll-partners-with-monkeytilt-to-power-increased-igaming-vip-limits/",
+    "https://www.ghacks.net/2026/05/21/valve-files-motion-to-dismiss-new-york-counter-strike-loot-box-lawsuit-compares-item-cases-to-baseball-cards/",
+    "https://sbcnews.co.uk/featurednews/2026/05/18/uk-betting-legal-challenge-affordability/",
+    "https://sbcnews.co.uk/social-responsibility/2026/05/21/commission-gambling-affordability-checks/"
   ],
   "posts": [
     {
-      "text": "Macau в первом квартале 2026 - рекорд по массовым играм.\n\nОтели под завязку. Концерты, шоппинг, туристы.\n\nVIP-отдел читал другой отчёт.\n\nMGM China VIP-доля рынка: с 15,4% до 10,2%. За один квартал.\n\nGalaxy - та же история: VIP падает, выручка растёт.\n\nКазино 30 лет строили джанкетные сети ради особого клиента. Сейчас тот клиент уходит - а массовый турист с пакетным туром закрывает план.\n\nРынок растёт. VIP уходит. Обе вещи правда.\n\n@vipcare_io",
+      "text": "Stake.com обрабатывает крипто-вывод за минуты. Средний лицензированный оператор в ЕС - от 24 до 72 часов.\n\nVIP выиграл. Ждёт.\n\nПока он ждёт - открывает другие вкладки. Смотрит, что предлагают конкуренты. Не потому что нелоялен. Просто ждать неприятно.\n\nБольшинство VIP-команд не могут на это повлиять. Скорость вывода - в зоне ответственности compliance и финтех-интеграций, не менеджеров по работе с игроками.\n\nRetention-инструмент, который не в руках retention-команды.\n\nStake.com построил на этом конкурентное преимущество. Не на бонусах.\n\nУ кого в вашей компании есть KPI на время вывода для VIP?\n\n@vipcare_io",
       "image_html": null
     }
   ],
   "queue": [
     {
-      "text": "Нью-Йорк: перед каждой ставкой - биометрия. Fingerprint или Face ID.\n\nНью-Йоркская Gaming Commission предложила верификацию не только при регистрации - но и перед каждой сессией. Плюс запрет AI-персонализации: никаких алгоритмических бонусов, рекомендаций ставок, suggested wagers.\n\nСамый большой рынок ставок в США.\n\nКомментарии к проекту закрылись 15 мая. Финальные правила - в ближайшие месяцы.\n\nДеталь для VIP-операторов: AI для RG-мониторинга НЕ запрещён. Платформа может использовать алгоритм, чтобы остановить игрока. Предложить reload-бонус через AI - нельзя.\n\nЗадача AI = остановить, не удержать.\n\nЕсли правила пройдут: ни таргетированных предложений, ни suggested wagers. Только VIP-менеджер, живой звонок, личный контакт.\n\nНью-Йорк случайно тестирует главную гипотезу: работает ли ретеншн без алгоритмов?\n\n@vipcare_io",
+      "text": "18 мая Valve подала в суд Нью-Йорка текст с одним главным аргументом.\n\nОружейный кейс в CS2 - это как Хэппи Мил. \"Люди любят сюрпризы.\"\n\nПрокурор штата думает иначе. Иск подан в феврале: оружейные кейсы CS2 - незаконная азартная игра. Один скин продан за $1M+. Один предмет из цифровой игры.\n\nВесь рынок CS2-скинов стоит $6.4 миллиарда.\n\nЕсли Нью-Йорк выиграет - каскад. CSGOEmpire, Gamdom, Roobet, сотни скин-казино стоят на том же принципе: мы не казино, мы сервис обмена предметов.\n\nНа это нет ни одной VIP-лицензии. Ни одной AML-программы.\n\nValve сравнивает с Хэппи Милом. Прокуратура - с казино.\n\nПрокуроры умеют считать деньги.\n\n@vipcare_io",
       "image_html": null
     },
     {
-      "text": "2019. Wynn решает не конкурировать за объём.\n\nСтавка: один правильный клиент лучше тысячи средних.\n\nПервый квартал 2026. Las Vegas: +6% год к году. EBITDA-маржа 35%.\n\nНо не это делает цифру интересной.\n\n$190,000 выручки на один номер. У конкурентов по Strip - $77,000.\n\nВ 2.4 раза больше с одинаковой площади.\n\nАпрель 2026: CEO в отчёте - \"premium demand remains healthy\". Drop и handle опережают прошлый год.\n\nПока рынок спорит, как удержать масс-маркет, Wynn показал простую арифметику: правильный клиент не требует объёма.\n\nСтавка сделана в 2019. Плюс 2.4x - сейчас.\n\n@vipcare_io",
+      "text": "Британские операторы строили VIP-программы. Персональные менеджеры, кешбэки, эксклюзивные события.\n\nТеперь UKGC готовит Financial Risk Assessments. Порог - £1,000 потерь за 24 часа. При достижении - запрос в кредитное бюро.\n\nСамо по себе звучит разумно.\n\nBGC - отраслевая ассоциация UK - называет данные кредитных бюро неточными и непоследовательными. И готовит иск против регулятора.\n\n21 мая UKGC заседала. Решение о запуске не принято.\n\nVIP-отдел строит отношения годами. Кредитное бюро выносит вердикт за один запрос.\n\nНа данных, которым не верит никто.\n\n@vipcare_io",
       "image_html": null
     }
   ],
